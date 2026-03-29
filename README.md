@@ -1,4 +1,6 @@
 # 👨‍💻 Johnson Obioma
+# Don't judge me by my public repos 😂😂😂
+
 
 **Full Stack Developer | .Net | Angular | React | React Native | Azure | Git/GitHub | CI/CD pipelines (GitHub Actions)**  
 📍 Calgary, AB | 📞 (825) 454-0771 | 📧 ifybioma@gmail.com
